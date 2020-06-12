@@ -121,6 +121,7 @@ while True:
     if nvoto == 'n':
         print('sessão encerrada')
         break
+#teste
 
 
 
